@@ -1,5 +1,15 @@
 This repo is in dire need of a cleanup. 
 
+TODO (Current)
+- [ ] Migrate solution to VS2010 (First iteration of VS to use MSBuild)
+ - Get InGameShop library building correctly in VS2010
+ - Remove all legacy DX components
+- [ ] Attempt direct upgrade to VS2022
+- [ ] Include SDL2 in project
+- [ ] Migrate windowing system to make use of SDL2 windows
+- [ ] Migrate audio system to make use of SDL2 audio
+- [ ] Migrate input system to make use of SDL2 input
+
 TODO ITEMS (in order):
 
 - Get Visual Studio project settings working with relative paths
